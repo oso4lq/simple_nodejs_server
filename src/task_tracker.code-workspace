@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/micha/task_tracker"
+		},
+		{
+			"path": "../../../musix"
+		},
+		{
+			"path": "../../../urbex-albania"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"CodeGPT.apiKey": "Nvidia"
+	}
+}
