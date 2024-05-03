@@ -1,6 +1,7 @@
 const http = require('http');
 const url = require('url');
 const getUsers = require('./modules/users');
+const serverPort = 3003;
 
 const server = http.createServer((req, res) => {
 
@@ -31,6 +32,6 @@ const server = http.createServer((req, res) => {
     }
 });
 
-server.listen(3000, () => {
-    console.log('Server is running on http://localhost:3000');
+server.listen(serverPort, () => {
+    console.log(`Server is running on http://localhost:${serverPort}`);
 });
