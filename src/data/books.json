@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Sea Fish"
+    },
+    {
+        "id": 2,
+        "name": "River Fish"
+    },
+    {
+        "id": 3,
+        "name": "Lake Fish"
+    },
+    {
+        "id": 4,
+        "name": "Pond Fish"
+    },
+    {
+        "id": 5,
+        "name": "Aquarium Fish"
+    }
+]
