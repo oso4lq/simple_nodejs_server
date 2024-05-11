@@ -8,6 +8,9 @@
 		},
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../expressjs_server"
 		}
 	],
 	"settings": {
